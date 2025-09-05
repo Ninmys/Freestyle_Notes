@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: notes-app
-          image: nothinmys/notes-app:v1
+          image: nithinmys/notes-app:v1
           ports:
             - containerPort: 5000
 ---
