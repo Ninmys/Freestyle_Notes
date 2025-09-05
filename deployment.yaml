@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: notes-app
-          image: dockerhub_username/notes-app:latest
+          image: nothinmys/notes-app:v1
           ports:
             - containerPort: 5000
 ---
