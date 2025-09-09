@@ -23,7 +23,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: notes-app-service3
+  name: notes-app-service4
 spec:
   selector:
     app: notes-app
