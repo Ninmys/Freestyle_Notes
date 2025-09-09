@@ -6,7 +6,7 @@ notes = []
 
 @app.route("/")
 def home():
-    return "📝 Welcome to Notes App API"
+    return "📝 Welcome to Notes App APIsss"
 
 @app.route("/notes", methods=["GET"])
 def get_notes():
